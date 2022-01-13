@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lutsi/CLionProjects/Practice8/Node_Template.h
+
+C:/Users/lutsi/CLionProjects/Practice8/list_template.h
+Node_Template.h
+C:/Users/lutsi/CLionProjects/Practice8/Node_Template.h
+
+C:/Users/lutsi/CLionProjects/Practice8/main.cpp
+iostream
+-
+Node_Template.h
+C:/Users/lutsi/CLionProjects/Practice8/Node_Template.h
+list_template.h
+C:/Users/lutsi/CLionProjects/Practice8/list_template.h
+

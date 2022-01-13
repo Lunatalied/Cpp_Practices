@@ -1,0 +1,3 @@
+C:/Users/lutsi/CLionProjects/Practice8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lutsi/CLionProjects/Practice8/cmake-build-debug/CMakeFiles/Practice8.dir
+C:/Users/lutsi/CLionProjects/Practice8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
