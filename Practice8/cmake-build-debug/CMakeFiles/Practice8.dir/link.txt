@@ -1,3 +1,0 @@
-"D:\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Practice8.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Practice8.dir/objects.a @CMakeFiles\Practice8.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Practice8.dir/objects.a -Wl,--no-whole-archive  -o Practice8.exe -Wl,--out-implib,libPractice8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Practice8.dir\linklibs.rsp
